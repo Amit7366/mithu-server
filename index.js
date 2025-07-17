@@ -55,7 +55,7 @@ const io = new Server(server, {
             'http://localhost:3000',
             'http://localhost:8000',
             'http://127.0.0.1:5500',
-            'https://sgrtool.web.app',
+            'https://mithuserver.web.app',
             'https://marvelous-kashata-f7abd8.netlify.app'
 
         ],
